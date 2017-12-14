@@ -1,0 +1,24 @@
+[submodule "group_1"]
+	path = group_1
+	url = git@github.com:siaws2001/KasaDaka-VSDK.git
+[submodule "group_2"]
+	path = group_2
+	url = git@gitlab.com:alexandruc/ict4d.git
+[submodule "group_3"]
+	path = group_3
+	url = git@github.com:Group3-ICT4D2017/KasaDaka-VSDK.git
+[submodule "group_4"]
+	path = group_4
+	url = git@gitlab.com:TheFlyingDutchman/ICT4D.git
+[submodule "group_6"]
+	path = group_6
+	url = git@github.com:victork1/KasaDaka-VSDK.git
+[submodule "group_7"]
+	path = group_7
+	url = git@github.com:AimVoma/KasaDaka-VSDK.git
+[submodule "group_8"]
+	path = group_8
+	url = git@github.com:jiacstudent/KasaDaka-VSDK.git
+[submodule "group_9"]
+	path = group_9
+	url = git@github.com:jvriemsdijk/ICT4D_final.git
