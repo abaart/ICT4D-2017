@@ -22,3 +22,9 @@
 [submodule "group_9"]
 	path = group_9
 	url = git@github.com:jvriemsdijk/ICT4D_final.git
+[submodule "group_11"]
+	path = group_11
+	url = git@github.com:faridanc/KasaDaka-VSDK.git
+[submodule "group_10"]
+	path = group_10
+	url = git@github.com:vinxion/KasaDaka-VSDK.git
